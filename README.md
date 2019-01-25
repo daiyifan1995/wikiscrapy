@@ -1,5 +1,5 @@
 # wikiscrapy
-wikibrief and wikiinforbox 
+wikibrief and wikiinforbox ：Python
 
 从wikipedia上下载网页的简介与inforbox
 
